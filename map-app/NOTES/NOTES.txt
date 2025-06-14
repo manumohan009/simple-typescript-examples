@@ -1,0 +1,22 @@
+
+React and Typescript: Build a Portfolio Project - Stephen Grider
+14/05/2025
+
+App Overview 
+
+    npx parcel index.html -  Tool to help us run Typescript in the browser 
+
+    To run the app
+        npx parcel index.html 
+
+Faker 
+
+    https://www.npmjs.com/package/@faker-js/faker 
+
+    npm install @faker-js/faker@7.6.0 
+
+    import { faker } from "@faker-js/faker"; 
+
+Definitely Typed project for types 
+
+npm install @types/google.maps 
